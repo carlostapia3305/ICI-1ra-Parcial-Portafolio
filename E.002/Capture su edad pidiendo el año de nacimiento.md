@@ -18,6 +18,8 @@ Obtener la edad promedio de n personas preguntándoles su año de nacimiento y a
 7.- Si ya se llego a la cantidad de personas calculadas sacar el promedio dividiendo la suma de las edades entre la cantidad de personas evaluadas 
 
 > # Diagrama de Flujo 
+![Edad dando el aaño de naacimiento y año actual](https://github.com/carlostapia3305/ICI-1ra-Parcial-Portafolio/assets/143683517/f29da04c-ee5d-4126-983d-2ebdabacbb84)
 
 > # Prueba de escritorio 
-![](file:///C:/Users/Tapia/Pictures/Capturass.PNG)
+![Edad pidiendo año de nacimiento](https://github.com/carlostapia3305/ICI-1ra-Parcial-Portafolio/assets/143683517/9bf42997-524c-4d25-a619-347c47766ce5)
+
