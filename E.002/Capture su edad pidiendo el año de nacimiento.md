@@ -1,21 +1,11 @@
-> # Analisis 
-Obtener la edad promedio de n personas preguntándoles su año de nacimiento y asumiendo que el año actual es 2023
+> # Analisis
+Escribe un algoritmo de una persona que capture su edad dando el año de nacimiento y el año actual 
 
-1.- Saber para cuantas personas es
+1.- Pedir el año de nacimiento 
 
-2.- Pedir el año de nacimiento 
+2.- Pedir el año actual 
 
-3.- Validar que el año de nacimiento sea menor al año actual y que sea mayo a 0
-
-4.- Calcular la edad restando el año actual con el año de nacimiento 
-
-5.- Contabilizar la cantidad de edades calculadas
-
-5.- Almacenar la edad sumándola con una variable
-
-6.- Validar si se ha llegado a la cantidad de personas, sino volver a preguntar y seguir el flujo
-
-7.- Si ya se llego a la cantidad de personas calculadas sacar el promedio dividiendo la suma de las edades entre la cantidad de personas evaluadas 
+3.- Sacar la edad restando el año actual y el año de nacimiento
 
 > # Diagrama de Flujo 
 ![Edad dando el aaño de naacimiento y año actual](https://github.com/carlostapia3305/ICI-1ra-Parcial-Portafolio/assets/143683517/f29da04c-ee5d-4126-983d-2ebdabacbb84)
